@@ -1,0 +1,8 @@
+Enable-RemoteDesktop
+ 
+cinst google-chrome-x64
+cinst firefox
+cinst malwarebytes
+cinst microsoftsecurityessentials
+cinst adobereader
+cinst windirstat
