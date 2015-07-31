@@ -1,8 +1,10 @@
 Enable-RemoteDesktop
  
-cinst google-chrome-x64
+cinst googlechrome
 cinst firefox
 cinst malwarebytes
 cinst microsoftsecurityessentials
 cinst adobereader
+cinst javaruntime
+cinst sysinternals
 cinst windirstat
